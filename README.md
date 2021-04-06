@@ -1,4 +1,7 @@
 ## Hi there 👋
+![Leanne Sall](https://user-images.githubusercontent.com/22161200/113777130-85b46e80-96df-11eb-9e2a-6f81ac1ad9be.png)
+
+
 My name is Leanne Sall and I am currently studying software development at British Columbia Institute of Technology!
 I love coding and working with others on projects. I use the MERN stack currently but I love learning and never mind branching out to new technologies.
 
