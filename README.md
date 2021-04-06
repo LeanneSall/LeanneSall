@@ -10,4 +10,4 @@ I love coding and working with others on projects. I use the MERN stack currentl
 
 ![Leanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=leannesall&count_private=true&theme=tokyonight&showicons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leannesall&layout=compact)]
